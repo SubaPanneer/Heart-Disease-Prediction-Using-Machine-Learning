@@ -80,5 +80,3 @@ The dataset contains patient health information and clinical measurements used f
 - Feature Engineering
 - Statistical Analysis
 - Python Programming
-
-MCA Graduate | Data Science Enthusiast | Machine Learning Aspirant
